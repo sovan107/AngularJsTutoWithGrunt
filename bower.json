@@ -1,0 +1,22 @@
+{
+  "name": "angularjs",
+  "description": "This is an angular JS tutorial",
+  "main": "\u001b[Aindex.html",
+  "authors": [
+    "sovan107 <sovan107@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "bootstrap": "https://github.com/twbs/bootstrap.git"
+  }
+}
